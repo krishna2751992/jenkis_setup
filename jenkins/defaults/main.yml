@@ -130,7 +130,14 @@ jenkins_plugins:
   - "ssh-slaves"
   - "structs"
   - "subversion"
-  - "support-core"  
+  - "support-core"
+  - "timestamper"
+  - "token-macro"
+  - "variant"
+  - "webhook-step"
+  - "windows-slaves"
+  - "ws-cleanup"
+  - "sonar"  
 jenkins_plugins_state: present
 jenkins_plugin_updates_expiration: 86400
 jenkins_plugin_timeout: 30
