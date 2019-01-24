@@ -66,6 +66,19 @@ jenkins_plugins:
   - "gitlab-plugin"
   - "gradle"
   - "greenballs"
+  - "jackson2-api"
+  - "jacoco"
+  - "javadoc"
+  - "ace-editor"
+  - "handlebars"
+  - "jquery-detached"
+  - "momentjs"
+  - "jdk-tool"
+  - "jobConfigHistory"
+  - "jquery"
+  - "jsch"
+  - "junit"
+  - "mailer"
 jenkins_plugins_state: present
 jenkins_plugin_updates_expiration: 86400
 jenkins_plugin_timeout: 30
